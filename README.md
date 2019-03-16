@@ -12,5 +12,10 @@ To Read:
 - [why I wrote 33 VSCode extensions and how I manage them](https://itnext.io/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
 - [fifty fizzbuzzes by vihart](https://github.com/vihart/fiftyfizzbuzzes/blob/master/Fifty%20Fizzbuzzes.ipynb)
 - [also](http://vihart.com/fifty-fizzbuzzes/)
+- [the best textbooks on every subject](https://news.ycombinator.com/item?id=17617825)
+- [interactive CSS grid generator](https://news.ycombinator.com/item?id=17618059)
+- [the greatest sales deck I've ever seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
+
+
 
 
